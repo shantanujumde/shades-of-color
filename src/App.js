@@ -34,7 +34,7 @@ function App() {
       <section className='container mt-3'>
         <div className='row'>
           <div className='col-md-3'>
-            <h3>Color Generator</h3>
+            <h3>Shades of Color</h3>
           </div>
           <div className='col-md-3 '>
             <form onSubmit={handleSubmit}>
