@@ -1,0 +1,9 @@
+.color-values{
+    /* position: absolute; */
+    margin-top: -2rem;
+    margin-left: -2rem;
+}
+.text-sm-center{
+    font-size: small;
+    position: absolute;
+}
