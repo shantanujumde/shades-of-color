@@ -8,7 +8,7 @@ function App() {
   const [color, setColor] = useState("#f15025")
   const [isColor, setIsColor] = useState(true)
   const [colorList, setColorList] = useState([])
-  const [accuracy, setAccuracy] = useState(10)
+  const accuracy= 10
   const handleSubmit = (e) => {
     e.preventDefault()
     try {
